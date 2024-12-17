@@ -1,6 +1,7 @@
 <script>
 // TODO: 4. ทำความรู้จัก useHead()
 // TODO: 5. ลอง console.log เพื่อดู log
+
 </script>
 
 
